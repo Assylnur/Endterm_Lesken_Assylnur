@@ -1,0 +1,19 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "Endterm project based on node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assylnur/Endterm_Lesken_Assylnur.git"
+  },
+  "author": "Lesken Assylnur MT-2001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Assylnur/Endterm_Lesken_Assylnur/issues"
+  },
+  "homepage": "https://github.com/Assylnur/Endterm_Lesken_Assylnur#readme"
+}
